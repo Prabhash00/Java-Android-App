@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/drawable/ic_profile.xml" value="0.211328125" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/drawable/touch_feedback.xml" value="0.211328125" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/activity_main.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/activity_movie.xml" value="0.18" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/cast_item.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/item_movie.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/item_review.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/item_trailer.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/movie_item.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/test1.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/test2.xml" value="0.19921875" />
+        <entry key="..\:/Marwa/Projects/ABND/MovieTrailer/app/src/main/res/layout/trailer_item.xml" value="0.19921875" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_favorite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_movie.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_setting.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/layout/activity_web_view.xml" value="0.25" />
+        <entry key="..\:/Users/USER/Downloads/Movies Affinity/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
