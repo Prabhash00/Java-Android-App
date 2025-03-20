@@ -1,4 +1,4 @@
-# MovieTrailer
+# MoviesAffinity
 - Display all upcoming movies trailers. 
 - Get a list of popular movies of the current time.
 - Get a list of top-rated movies.
